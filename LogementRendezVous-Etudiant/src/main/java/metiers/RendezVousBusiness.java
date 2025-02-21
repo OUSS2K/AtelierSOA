@@ -11,7 +11,7 @@ public class RendezVousBusiness {
     public static List<RendezVous> listeRendezVous;
     LogementBusiness logementMetier=new LogementBusiness();
     public RendezVousBusiness() {
-      listeRendezVous = new ArrayList<>();
+        listeRendezVous = new ArrayList<>();
     }
 
 
